@@ -95,8 +95,9 @@ Webcam not showing	Use Chrome browser and allow camera access.
 👨‍💻 Author
 
 Anuka Snehith Reddy
-💻 GitHub: https://github.com/<your-username>
+💻 GitHub: https://github.com/Snehith1302
 
 📜 License
+
 
 This project is open-source and available under the MIT License.
