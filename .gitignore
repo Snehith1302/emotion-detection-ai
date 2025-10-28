@@ -1,0 +1,26 @@
+# Ignore virtual environments
+venv/
+venv311/
+.env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore temporary and system files
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Ignore Streamlit cache
+.streamlit/
+
+# Ignore model files if not needed
+*.h5
+*.hdf5
+
+# Ignore large data/temp files
+/temp/
